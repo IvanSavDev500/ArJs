@@ -1,0 +1,23 @@
+{
+  "name": "arjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/IvanSavDev500/ArJs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvanSavDev500/ArJs/issues"
+  },
+  "homepage": "https://github.com/IvanSavDev500/ArJs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
